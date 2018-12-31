@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/1396/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt
+END
+tranceive.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/tranceive.ulaw
+END
+simplex.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/simplex.ulaw
+END
+plus.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/plus.ulaw
+END
+memory_notfound.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/memory_notfound.ulaw
+END
+down.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/down.gsm
+END
+timeout.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/timeout.ulaw
+END
+callproceeding.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/callproceeding.gsm
+END
+timeout-warning.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/timeout-warning.ulaw
+END
+seconds.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/seconds.ulaw
+END
+act-timeout-warning.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/act-timeout-warning.ulaw
+END
+localmonitor.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/localmonitor.ulaw
+END
+macro_busy.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/macro_busy.ulaw
+END
+revpatch-noanswer.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/revpatch-noanswer.ulaw
+END
+remote_already.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_already.gsm
+END
+unkeyedfor.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/unkeyedfor.ulaw
+END
+stop.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/stop.ulaw
+END
+remote_cmd.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_cmd.pcm
+END
+monitor.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/monitor.ulaw
+END
+hipwr.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/hipwr.ulaw
+END
+thetemperatureis.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/thetemperatureis.ulaw
+END
+minus.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/minus.ulaw
+END
+thewindis.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/thewindis.ulaw
+END
+lopwr.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/lopwr.ulaw
+END
+goodafternoon.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/goodafternoon.ulaw
+END
+revpatch-intro.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/revpatch-intro.ulaw
+END
+callterminated.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/callterminated.gsm
+END
+login.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/login.ulaw
+END
+fast.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/fast.gsm
+END
+on.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/on.ulaw
+END
+quick.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/quick.ulaw
+END
+macro_notfound.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/macro_notfound.ulaw
+END
+remote_tx.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_tx.pcm
+END
+in-call.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/in-call.ulaw
+END
+unauthtx.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/unauthtx.ulaw
+END
+goodmorning.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/goodmorning.ulaw
+END
+autopatch_on.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/autopatch_on.ulaw
+END
+functioncomplete.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/functioncomplete.pcm
+END
+connecting.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/connecting.ulaw
+END
+thetimeis.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/thetimeis.ulaw
+END
+medpwr.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/medpwr.ulaw
+END
+thevoltageis.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/thevoltageis.ulaw
+END
+repeat_only.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/repeat_only.gsm
+END
+sitenorm.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/sitenorm.ulaw
+END
+node.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/node.gsm
+END
+goodevening.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/goodevening.ulaw
+END
+off.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/off.ulaw
+END
+remote_disc.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_disc.gsm
+END
+remote_notfound.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_notfound.pcm
+END
+remote_go.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/1396/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_go.ulaw
+END
+connected.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/connected.gsm
+END
+connection_failed.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/connection_failed.gsm
+END
+alllinksrestored.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/alllinksrestored.ulaw
+END
+invalid-freq.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/invalid-freq.ulaw
+END
+version.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/version.ulaw
+END
+rxpl.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/rxpl.ulaw
+END
+txpl.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/txpl.ulaw
+END
+longitude.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/longitude.ulaw
+END
+alllinksdisconnected.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/alllinksdisconnected.ulaw
+END
+remote_busy.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_busy.ulaw
+END
+frequency.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/frequency.ulaw
+END
+up.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/up.gsm
+END
+slow.gsm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/slow.gsm
+END
+keyedfor.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/keyedfor.ulaw
+END
+remote_monitor.pcm
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/remote_monitor.pcm
+END
+latitude.ulaw
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/825/projects/allstar/astsrc-1.4.23-pre/trunk/sounds/rpt/latitude.ulaw
+END
